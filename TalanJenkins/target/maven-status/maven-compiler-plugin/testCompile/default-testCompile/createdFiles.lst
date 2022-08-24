@@ -1,0 +1,8 @@
+Runner\Tests_Runner.class
+PageObject\UpdatePage.class
+Driver\Driver.class
+PageObject\CheckingCoursesPage.class
+PageObject\Connexion.class
+Stepdef\Tests_connect.class
+Stepdef\Tests_VerifyCourses.class
+Stepdef\Tests_update.class
